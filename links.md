@@ -1,6 +1,10 @@
 # Links 
 
+# Priv Escalation 
 
+-[GTFO Bins](https://gtfobins.github.io/) 
+-[LOLBAS](https://lolbas-project.github.io/) 
+-[]() 
 
 ## Log Analysis 
 
